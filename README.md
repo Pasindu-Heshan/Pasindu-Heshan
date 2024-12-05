@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is Pasindu Mendis and I'm a Software Engineer from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Pasindu Mendis</h2>
+
+###
+
+<img align="right" height="145" src="https://vsthemes.org/uploads/posts/2024-11/d058eaf68e_3370748890.gif"  />
+
+###
+
+### just a chill guy who loves to code...
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
@@ -66,11 +82,7 @@
 
 ###
 
-<img align="right" height="145" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="pasindu.mendi@gnail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -86,11 +98,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ###
 
