@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is Pasindu Mendis</h2>
 
-###
-
-<img align="right" height="145" src="https://vsthemes.org/uploads/posts/2024-11/d058eaf68e_3370748890.gif"  />
-
-###
+<img align="right" height="150" src="https://data2.nssmag.com/images/galleries/41148/cover/cover-chill-tall_v2.jpg" />
 
 ### just a chill guy who loves to code...
 
